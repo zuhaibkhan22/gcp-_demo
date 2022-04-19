@@ -1,2 +1,2 @@
-# gcp-_demo
+# gcp_demo
 ## Codanics demo for GCP
